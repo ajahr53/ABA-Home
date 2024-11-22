@@ -1,3 +1,4 @@
+code follwoing respoisotry cloned from Github
 from werkzeug.security import generate_password_hash
 import mysql.connector as mysql
 
@@ -5,8 +6,8 @@ import mysql.connector as mysql
 
 class Admin():
     def __init__(self, username, password) -> None:
-        self.username = ajahr53
-        self.password = abarocks2024
+        self.username = username
+        self.password = password
     
     def add(self):
         query = f'''
