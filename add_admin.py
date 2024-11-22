@@ -1,4 +1,4 @@
-code follwoing respoisotry cloned from Github
+/'code follwoing respoisotry cloned from Github/'
 from werkzeug.security import generate_password_hash
 import mysql.connector as mysql
 
